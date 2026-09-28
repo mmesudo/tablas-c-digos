@@ -1,27 +1,30 @@
-🔗https://mmesudo.github.io/tablas-c-digos/    ################
-#
-<img width="1080" height="1105" alt="1000192567" src="https://github.com/user-attachments/assets/a805979d-09c9-43b2-9b98-c0f8fced3443" />
-<img width="1080" height="1352" alt="1000192565" src="https://github.com/user-attachments/assets/2f169335-4d5d-4b01-83da-2abf2d03161e" />
-AUTOR : DC-LABORATORY 
-Tabla de comandos ELM327 AT.
-Tabla de protocolos OBD-II.
-Modos 01–0A.
-Tabla de PIDs ECU.
-Fórmulas para RPM, temperatura, MAF, acelerador, etc.
-DTC (03, 04, 07, 0A).
-VIN y datos del vehículo.
-Tabla de IDs CAN/ECU.
-Sección UDS para módulos como ABS, BCM, TCM y SRS.
-Flujo recomendado para tu aplicación.
-Advertencias para no ejecutar comandos de escritura/programación por accidente.
-�
-Python-OBD +1     <img width="1080" height="1105" alt="1000192567" src="https://github.com/user-attachments/assets/a805979d-09c9-43b2-9b98-c0f8fced3443" />
-🔗https://mmesudo.github.io/ROJO-🔗INSTALACIONES-/
-🔗https://mmesudo.github.io/tablas-c-🔗digos/
-🔗https://mmesudo.github.io/agentedclucy/
-🔗https://zteze6039-hub.github.io/playa
-🔗https://dcg2390.github.io/Taller/
-🔗https://zteze6039-hub.github.io/
-🔗https://gooey.ai/2/nd3PD11
-##############################
-AUTOR : DC-LABORATORY 
+# DC-LABORATORY — Catálogo OBD2 en español
+
+Sitio estático React/Vite basado en la página de referencia de OBD2 PID Knowledge, personalizado para DC-LABORATORY con logo propio, imágenes adjuntas y paleta naranja/celeste.
+
+## Incluye
+
+- Catálogo completo de 252 PIDs en Mode 01, 02, 05, 06 y 09.
+- Sección **Normas y servicios**: SAE J1962, J1979, J2012, J2190, ISO 15765, UDS y 19 modos/servicios OBD/UDS.
+- Sección **Señales**: 35 señales semánticas de motor, batería HV, inversores, carga y operación.
+- Sección **Plataformas**: 59 familias de vehículos HEV/PHEV.
+- Sección **Adaptadores**: ELM327, OBDLink/STN, UniCarScan y Vgate/vLinker.
+- Sección **Apps**: Car Scanner, Dr. Prius, Hybrid Assistant, OBD Fusion, OBDLink, PHEV Watchdog y Torque Pro.
+- **Búsqueda global** por PIDs y secciones.
+- Filtros, feedback, navegación responsive y estados vacíos.
+
+## Ejecutar localmente
+
+```bash
+pnpm install
+pnpm dev
+```
+
+## Compilar
+
+```bash
+pnpm build
+pnpm start
+```
+
+Los cinco recursos visuales están en `client/public/assets/`. El código también conserva paths de almacenamiento de WebDev con fallback local, por lo que el paquete es autocontenido para GitHub.
