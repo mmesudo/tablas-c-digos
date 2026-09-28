@@ -1,4 +1,5 @@
-🔗https://mmesudo.github.io/tablas-c-digos/
+🔗https://mmesudo.github.io/tablas-c-digos/    ################
+#
 <img width="1080" height="1105" alt="1000192567" src="https://github.com/user-attachments/assets/a805979d-09c9-43b2-9b98-c0f8fced3443" />
 <img width="1080" height="1352" alt="1000192565" src="https://github.com/user-attachments/assets/2f169335-4d5d-4b01-83da-2abf2d03161e" />
 AUTOR : DC-LABORATORY 
