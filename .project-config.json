@@ -1,0 +1,37 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "MANUS_WEBDEV_PROJECT_ID": "U3iuvi2maCGSmkgp8o4smj"
+  },
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/U3iuvi2maCGSmkgp8o4smj.git",
+    "expiration": "2026-09-29T06:17:09.742Z",
+    "token": "art_v2_x_415673b1aa5fb464f211cbe0855843473c6fae74?expires=1790662629",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "dc-laboratory-pids",
+  "path": "/home/ubuntu/dc-laboratory-pids",
+  "port": 3000,
+  "runtime_endpoints": null,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "ixeDEjDCJwUqUmbU8bpSaz",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "PGsmPNnMXtc4sRJsPWcgtB",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "LUCY S4",
+    "OWNER_OPEN_ID": "bqKXuTzJpSAgdwWhJhZfgV",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "2948b704-d162-4334-8870-bb308af6cb01",
+    "VITE_APP_ID": "U3iuvi2maCGSmkgp8o4smj",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "DC-LABORATORY OBD2 PIDs",
+    "VITE_FRONTEND_FORGE_API_KEY": "7HfYz9wbjafVvCTHWuM2pz",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
